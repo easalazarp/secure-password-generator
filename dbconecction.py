@@ -43,9 +43,9 @@ class DBConection:
             print("---------------------------------------")
         except sqlite3.Error as error:
             print(f"{DBConection.RED}Error al guardar a la base de datos: {error}{DBConection.RESET}")
-        finally:
-            if DBConection.connection:
-                DBConection.connection.close()
+        # finally:
+        #     if DBConection.connection:
+        #         DBConection.connection.close()
     @staticmethod
     def get_password():
         try:

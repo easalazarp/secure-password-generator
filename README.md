@@ -34,7 +34,7 @@ Este proyecto busca desarrollar un generador de contraseñas aleatorias que gara
 - Permitir al usuario generar una contraseña, comprobar la fuerza de una contraseña o salir del programa.
 - Preguntar al usuario si desea realizar otra acción después de completar una operación. Si la respuesta es afirmativa, volver al menú principal; de lo contrario, finalizar el programa.
 
-<img src="https://github.com/easalazarp/secure-password-genetator/blob/5660dd92ad1b1ee1a2240be7cf37e7f3158805eb/Diagrama%20de%20flujo.jpg" alt="Diagrama de flujo" />
+<img src="https://github.com/easalazarp/secure-password-generator/blob/main/assets/Diagrama%20de%20flujo.jpg" />
 
 ## Descripción del diagráma de aplicación
 
@@ -51,4 +51,7 @@ Este diagrama representa la arquitectura de una aplicación de generación y val
 - Base de Datos (Opcional): Permite almacenar las contraseñas generadas (si el usuario elige guardarlas) y otros datos relevantes, como registros de actividad.
 4. Capa de Gestión y Monitoreo (Management & Monitoring)
 - Sistema de Registro y Monitoreo: Supervisa el funcionamiento de la aplicación, registrando eventos relevantes para seguridad, auditoría y optimización del sistema.
-<img src="https://github.com/easalazarp/secure-password-genetator/blob/main/Diagrama%20de%20arquitectura%20de%20aplicacio%CC%81n.png" alt="Diagrama de aplicación" />
+<img src="https://github.com/easalazarp/secure-password-generator/blob/main/assets/Diagrama%20de%20arquitectura%20de%20aplicacio%CC%81n.png" />
+
+## Diagram de caso de uso
+<img src="https://github.com/easalazarp/secure-password-generator/blob/main/assets/Diagrama%20de%20uso.png" />

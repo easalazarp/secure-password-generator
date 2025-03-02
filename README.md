@@ -1,4 +1,5 @@
 #  Generador de contraseñas seguras
+:warning: Diagramas y presentación se encuentra en la carpeta "/assets"
 ## Introducción
 
 En la actualidad, la seguridad de la información es un aspecto fundamental en el uso de tecnología. Uno de los principales factores que garantizan la protección de datos personales y corporativos es el uso de contraseñas seguras. Sin embargo, muchas veces los usuarios generan contraseñas fáciles de vulnerar, poniendo en riesgo su información.

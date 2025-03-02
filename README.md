@@ -55,3 +55,7 @@ Este diagrama representa la arquitectura de una aplicación de generación y val
 
 ## Diagram de caso de uso
 <img src="https://github.com/easalazarp/secure-password-generator/blob/main/assets/Diagrama%20de%20uso.png" />
+
+## Cronograma
+
+<img src="https://github.com/easalazarp/secure-password-generator/blob/main/assets/cronograma.png" />
